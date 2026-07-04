@@ -1,7 +1,6 @@
 .DS_Store
 .swiftpm/
 .build/
-.vscode/
 
 # Xcode
 xcuserdata/
@@ -34,3 +33,7 @@ models/*/.venv/
 models/*/build*/
 models/*/checkpoint*
 models/*/convert*.log
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
